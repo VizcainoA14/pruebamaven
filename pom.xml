@@ -5,13 +5,13 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>BESA</groupId>
-    <artifactId>kernelbesa</artifactId>
+    <artifactId>pruebamaven</artifactId>
     <version>1.0</version>
     <packaging>jar</packaging>
 
     <name>kernelbesa</name>
     <description>KernelBESA</description>
-    <url>https://github.com/VizcainoA14/KernelBESA</url>
+    <url>https://github.com/VizcainoA14/pruebamaven</url>
 
 
     <licenses>
@@ -54,6 +54,6 @@
             </plugin>
         </plugins>
     </build>
-    
+
 </project>
 
