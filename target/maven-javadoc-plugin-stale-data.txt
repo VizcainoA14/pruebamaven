@@ -1,0 +1,22 @@
+cmd.exe
+/X
+/C
+""C:\Program Files\Java\jdk-22\bin\javadoc.exe" -Xdoclint:none @options @packages"
+C:\Users\adria\OneDrive\Escritorio\pruebamaven\target\apidocs\allclasses-index.html = 1725472255239
+C:\Users\adria\OneDrive\Escritorio\pruebamaven\target\apidocs\allpackages-index.html = 1725472255239
+C:\Users\adria\OneDrive\Escritorio\pruebamaven\target\apidocs\constant-values.html = 1725472254752
+C:\Users\adria\OneDrive\Escritorio\pruebamaven\target\apidocs\element-list = 1725472254635
+C:\Users\adria\OneDrive\Escritorio\pruebamaven\target\apidocs\help-doc.html = 1725472255318
+C:\Users\adria\OneDrive\Escritorio\pruebamaven\target\apidocs\index-all.html = 1725472255306
+C:\Users\adria\OneDrive\Escritorio\pruebamaven\target\apidocs\index.html = 1725472255197
+C:\Users\adria\OneDrive\Escritorio\pruebamaven\target\apidocs\member-search-index.js = 1725472255244
+C:\Users\adria\OneDrive\Escritorio\pruebamaven\target\apidocs\module-search-index.js = 1725472255239
+C:\Users\adria\OneDrive\Escritorio\pruebamaven\target\apidocs\options = 1725472251787
+C:\Users\adria\OneDrive\Escritorio\pruebamaven\target\apidocs\overview-summary.html = 1725472255314
+C:\Users\adria\OneDrive\Escritorio\pruebamaven\target\apidocs\overview-tree.html = 1725472255181
+C:\Users\adria\OneDrive\Escritorio\pruebamaven\target\apidocs\package-search-index.js = 1725472255244
+C:\Users\adria\OneDrive\Escritorio\pruebamaven\target\apidocs\packages = 1725472251791
+C:\Users\adria\OneDrive\Escritorio\pruebamaven\target\apidocs\search.html = 1725472255307
+C:\Users\adria\OneDrive\Escritorio\pruebamaven\target\apidocs\serialized-form.html = 1725472254778
+C:\Users\adria\OneDrive\Escritorio\pruebamaven\target\apidocs\tag-search-index.js = 1725472255251
+C:\Users\adria\OneDrive\Escritorio\pruebamaven\target\apidocs\type-search-index.js = 1725472255244
